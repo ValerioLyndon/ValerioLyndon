@@ -11,6 +11,6 @@ I also occasionally do non-anime work:
 
 - [Soundgasm.net Improvements](https://github.com/ValerioLyndon/Soundgasm-Improvements) - Restyles and massively improves functionality of Soundgasm.net.
 
-To know what I'm working on, check out my [GitHub tracker](https://github.com/users/ValerioLyndon/projects/1/views/1). Thanks for stopping by!
+To know what I'm working on, check out my [GitHub tracker](https://github.com/users/ValerioLyndon/projects/1/views/4). Thanks for stopping by!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P6C87DR)
