@@ -10,6 +10,7 @@ I'm a hobbyist web designer with a focus on anime websites and apps.
 I also occasionally do non-anime work:
 
 - [Soundgasm.net Improvements](https://github.com/ValerioLyndon/Soundgasm-Improvements) - Restyles and massively improves functionality of Soundgasm.net.
+- [Bandcamp Helper](https://github.com/ValerioLyndon/Bandcamp-Helper) - Tools for browsing and downloading on Bandcamp.
 
 To know what I'm working on, check out my [GitHub tracker](https://github.com/users/ValerioLyndon/projects/1/views/4). Thanks for stopping by!
 
